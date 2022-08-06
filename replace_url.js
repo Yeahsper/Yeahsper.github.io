@@ -1,3 +1,4 @@
+//Replace this path where you have the folder installed
 const path = "D:/reignofterrorgd/";
 
 function removeHttp(url) {
