@@ -1,5 +1,5 @@
 //	Replace this path where you have the folder installed
-//	Example: "C:/Downloads/Reign-of-Terror-Offline-Wiki"
+//	Example: "C:/Downloads/Reign-of-Terror-Offline-Wiki-master"
 const path = "C:/Change/This/Path";
 
 function removeHttp(url) {
