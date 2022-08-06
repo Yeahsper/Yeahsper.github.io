@@ -1,5 +1,6 @@
-//Replace this path where you have the folder installed
-const path = "D:/reignofterrorgd/";
+//	Replace this path where you have the folder installed
+//	Example: "C:/Downloads/Reign-of-Terror-Offline-Wiki"
+const path = "C:/Change/This/Path";
 
 function removeHttp(url) {
 	return url.replace("https://www.reignofterrorgd.com", "");
